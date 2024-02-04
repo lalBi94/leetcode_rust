@@ -2,7 +2,7 @@ fn main() {
     let now: std::time::Instant = std::time::Instant::now();
 
     let yo = {
-        leet_ex::arrange_coin::solution(1804289383)
+        leetcode_rust::my_pow::solution(250000.5, 5)
     };
 
     let elapsed: std::time::Duration = now.elapsed();
