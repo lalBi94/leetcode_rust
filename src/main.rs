@@ -2,7 +2,7 @@ fn main() {
     let now: std::time::Instant = std::time::Instant::now();
 
     let yo = {
-        leetcode_rust::my_sqrt::solution(81)
+        leetcode_rust::fizz_buzz::solution(499979)
     };
 
     let elapsed: std::time::Duration = now.elapsed();
