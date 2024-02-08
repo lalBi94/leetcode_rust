@@ -6,3 +6,4 @@ pub mod defang_i_paddr;
 pub mod rotate;
 pub mod my_sqrt;
 pub mod rotate_array;
+pub mod remove_element;
